@@ -1,0 +1,121 @@
+[DEBUG]: 15:27:19: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding color: APRICOT
+[DEBUG]: adding hasNavigation: true
+[DEBUG]: adding hasBackupCamera: false
+[DEBUG]: adding hasParkingAss: true
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
+[DEBUG]: 15:37:21: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding color: APRICOT
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
+[DEBUG]: 15:37:31: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding color: APRICOT
+[DEBUG]: adding hasNavigation: false
+[DEBUG]: adding hasBackupCamera: false
+[DEBUG]: adding hasParkingAss: false
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
+[DEBUG]: 15:37:34: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding color: APRICOT
+[DEBUG]: adding hasNavigation: false
+[DEBUG]: adding hasBackupCamera: false
+[DEBUG]: adding hasParkingAss: false
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
+[DEBUG]: 15:37:41: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding color: APRICOT
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
+[DEBUG]: 15:39:56: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding color: APRICOT
+[DEBUG]: adding hasNavigation: false
+[DEBUG]: adding hasBackupCamera: false
+[DEBUG]: adding hasParkingAss: false
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
+[DEBUG]: 15:39:56: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding hasNavigation: false
+[DEBUG]: adding hasBackupCamera: false
+[DEBUG]: adding hasParkingAss: false
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
+[DEBUG]: 15:39:56: Starting car building
+[DEBUG]: adding carType: SPORTS_CAR
+[DEBUG]: adding transmissionType: AUTOMATIC
+[DEBUG]: adding airbagConfiguration: ALL
+[DEBUG]: adding color: APRICOT
+[DEBUG]: adding hasNavigation: false
+[DEBUG]: adding hasBackupCamera: false
+[DEBUG]: adding hasParkingAss: false
+[DEBUG]: adding cylinderConfiguration: V6
+[DEBUG]: adding interiorType: CLOTH
+[DEBUG]: adding spoilerStyle: NONE
+[DEBUG]: adding wheel: ALLOY
+[DEBUG]: adding year: YEAR_2016
+[DEBUG]: adding numberOFDoors: FIVE_DOOR
+[DEBUG]: adding engineCategory: DIESEL
+[DEBUG]: Build Finished
