@@ -12,9 +12,9 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static enumsforcar.Brand.BMW;
-import static enumsforcar.Model.*;
+import static enumsforcar.Model.FIVE_SERIES;
+import static enumsforcar.Model.S_CLASS;
 import static org.junit.jupiter.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class CarServiceTest {
 
@@ -23,6 +23,7 @@ public class CarServiceTest {
     private static Car builtedCarWithAllProps;
     private static Car builtedCarWithNotAllProps;
     private static Car builtedCarWithBrandAndOrModelDeclared;
+
     @BeforeAll
     static void beforeAll() {
         normalCarForThrowExceptionAndTrue = new Car(BMW, S_CLASS);
@@ -90,14 +91,14 @@ public class CarServiceTest {
 
     @Test
     void shouldNoTThrowNoSuchModelException() {
-        assertDoesNotThrow( () ->
+        assertDoesNotThrow(() ->
                 CarService.calculateTotalAmountForCar(normalCarForNotThrowExceptionAndFalse)
         );
     }
 
     @Test
     void ifSsModelExists() {
-      assertFalse(CarService.isModelExists(normalCarForThrowExceptionAndTrue));
+        assertFalse(CarService.isModelExists(normalCarForThrowExceptionAndTrue));
     }
 
     @Test
@@ -108,23 +109,23 @@ public class CarServiceTest {
 
     @Test
     void shouldNotThrowAllPropertiesMustBeChosenException() {
-        assertDoesNotThrow( () ->
+        assertDoesNotThrow(() ->
                 CarService.isAllPropertiesFill(builtedCarWithAllProps));
 
     }
 
-@Test
-void shouldThrowAllPropertiesMustBeChosenException() {
+    @Test
+    void shouldThrowAllPropertiesMustBeChosenException() {
         assertThrows(AllPropertiesMustBeChosenException.class, () ->
                 CarService.calculateTotalAmountForBuiltCar(builtedCarWithNotAllProps)
-                );
-}
+        );
+    }
 
     @Test
     void shouldThrowIncorrectMethodException() {
         assertThrows(IncorrectMethodException.class, () ->
                 CarService.calculateTotalAmountForBuiltCar(builtedCarWithBrandAndOrModelDeclared)
-                );
+        );
 
     }
 
